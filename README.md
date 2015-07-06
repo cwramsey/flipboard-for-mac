@@ -1,12 +1,10 @@
 # flipboard-for-mac
 A Flipboard Mac app made in Electron
 
-###Instructions
+###Download
 
-To download, simple clone the repo or download the FlipboardForMac.app file to run on your Mac.
+[Download this repo](https://github.com/cwramsey/flipboard-for-mac/archive/master.zip) and move FlipboardForMac.app into your applications folder. That's it.
 
-###Requirements
+###Usage
 
-This runs off Electron and simply loads Flipboard into the chromium instance. There's nothing special or crazy going on here.
-
-This should work just the same as if you were to load Flipboard into Chrome.
+You'll use this just like you would any other Mac app. Go to your applications, open up the app, and you'll have the Flipboard website loaded up inside an application, instead of having to run it in your browser.
